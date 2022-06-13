@@ -19,6 +19,7 @@
 - [Neha Santani](https://github.com/NehaSantani)
 - [Juan Rodriguez](https://github.com/jrodriguezarc)
 - [Raj]
+- [Derr]
 - [David](https://github.com/DavidZhu1388)
 - [Harish Thakur](https://github.com/harish445)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
